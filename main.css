@@ -1,0 +1,31 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    color:aliceblue;
+}
+body {
+    background: darkgrey url(./images/space-bg.jpg) center center no-repeat;
+    background-size: cover;
+    height: 100%;
+
+}
+.links {
+    padding: 20px 0 15px 0;
+    background-color: grey;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+    text-align:center;
+    color: aliceblue;
+    list-style: none;
+}
+h2 {
+    text-align: center;
+    color:aliceblue;
+}
+h4 {
+    text-align: center;
+    color:aliceblue;
+}
